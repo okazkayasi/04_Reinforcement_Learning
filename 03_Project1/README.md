@@ -2,7 +2,7 @@
 
 In this project, Sutton's TD Learning algorithms, stated in "Learning to Predict by the Methods of Temporal Learning" paper, are implemented and some figures in the paper are recreated.
 
-I have used Python 3 and ipython notebooks. A clean virtual env is created using conda. The packages needed are written in requirements.txt and can be installed using pip.
+I have used Python 2.7 and ipython notebooks. A clean virtual env is created using conda. The packages needed are written in requirements.txt and can be installed using pip.
 
 The packages downloaded after clean virtual env is created are
 
