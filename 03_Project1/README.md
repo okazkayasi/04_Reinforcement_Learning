@@ -7,7 +7,7 @@ I have used Python 3 and ipython notebooks. A clean virtual env is created using
 The packages downloaded after clean virtual env is created are
 
 - numpy=1.15.2
-- matplotlib=
+- matplotlib=2.2.3
 
 Each figure created has its own ipython file, but all uses the same random seed, so that they use the same training data.
 
