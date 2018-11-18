@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_HW_3/hw3-tester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_Project2/LunarLander-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_Project2/gym" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_Project2/pybox2d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_Project2/pybox2d/pybox2d_dev" vcs="Git" />
+  </component>
+</project>
